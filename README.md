@@ -1,6 +1,6 @@
 # study-pods
 
-##Heading 2
+## Heading 2
 
 #### Heading 4
 
