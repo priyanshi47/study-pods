@@ -1,9 +1,11 @@
 # study-pods
 
-## Heading 2
+## Web development
 
-#### Heading 4
+july 20, 2021
 
-###### Heading 6
+Today, I learnt some basics of web development.
+->web development is basically a course to design websites and web applications.
+->
 
-Plain text
+
